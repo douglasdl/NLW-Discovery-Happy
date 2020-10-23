@@ -29,8 +29,8 @@
 Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - [HTML5](https://dev.w3.org/html5/html-author/)
-- [CSS3]
-- [JavaScript]
+- [CSS3](https://www.w3.org/TR/css3-roadmap/)
+- [JavaScript](https://www.javascript.com/)
 - [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/pt-br/)
 - [SQLite](https://www.sqlite.org/index.html)
@@ -38,7 +38,7 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## Projeto
 
-O Happy é um projeto que visa facilitar visitas aos orfanatos próximos a você 💜 
+O Happy é um projeto que visa facilitar visitas aos orfanatos próximos a você 
 
 Este é um projeto desenvolvido durante a **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 12 a 18 de Outubro de 2020 na Trilha Discovery com o professor Mayk Brito (https://github.com/maykbrito).
 
