@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Happy" title="Happy" src=".github/happy_logo.svg" />
+    <img alt="Happy" title="Happy" src="happy_logo.svg" />
 </h1>
 
 <p align="center">
@@ -21,7 +21,7 @@
 <br>
 
 <p align="center">
-  <img alt="Happy" src=".github/happy_home.png" width="100%">
+  <img alt="Happy" src="happy_home.png" width="100%">
 </p>
 
 ## Tecnologias
