@@ -75,7 +75,7 @@ Instalar [Node Monitor](https://nodemon.io/)
 <br>
 <code>
     npm install nodemon
-<code>
+</code>
 <br>
     
 Iniciar o Servidor
