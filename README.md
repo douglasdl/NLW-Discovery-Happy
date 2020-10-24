@@ -40,7 +40,9 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 ## Instalação de Dependências
 
 Instalar [Node.js](https://nodejs.org/en/download/package-manager/)
-brew install node
+<code>
+    brew install node
+</code>
 
 Instalar [NPM](https://www.npmjs.com/get-npm)
 npm install npm@latest -g
