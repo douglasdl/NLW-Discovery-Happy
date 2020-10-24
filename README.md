@@ -39,20 +39,20 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## Instalação de Dependências
 
-Instalar Nodejs (https://nodejs.org/en/download/package-manager/)
+Instalar Nodejs(https://nodejs.org/en/download/package-manager/)
 brew install node
 
-Instalar NPM (https://www.npmjs.com/get-npm)
+Instalar NPM(https://www.npmjs.com/get-npm)
 npm install npm@latest -g
 
 Verificar versão instalada do Node.js e do NPM
 node -v
 npm -v
 
-Instalar Express (https://expressjs.com/)
+Instalar Express(https://expressjs.com/)
 npm install express
 
-Instalar Node Monitor (https://nodemon.io/)
+Instalar NodeMonitor(https://nodemon.io/)
 npm install nodemon
 
 Iniciar o Servidor
